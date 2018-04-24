@@ -7,3 +7,7 @@ body {
 
 footer { font-size: 80%; }
 footer hr { margin-bottom: 5px; }
+
+#timelineColorful, #timelineLiveUpdate {
+  font-size: 80%;
+}
